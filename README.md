@@ -8,11 +8,11 @@
 Part 01 - Basic of C\
   Ch.10 Programming Challenge
   
-Part 02 - Basic of pointer and array\
+Part 02 - Basic of Pointer and Array\
   Ch.15 Programming Challenge
   
-Part 03 - Deep understanding of pointer and array\
+Part 03 - Deep Understanding of Pointer and Array\
   Ch.20 Programming Challenge
   
-Part 04 - Deep understanding of C\
+Part 04 - Deep Understanding of C\
   Ch.28 Programming Challenge
