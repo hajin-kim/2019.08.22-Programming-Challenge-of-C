@@ -181,6 +181,7 @@ int main(void)
 	}
 	
 	fclose(output);
+	free(mybook);
 	
 	printf("Data Saved: %d\n", len);
 	

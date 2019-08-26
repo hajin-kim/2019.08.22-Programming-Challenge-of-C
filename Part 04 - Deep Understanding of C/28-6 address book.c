@@ -135,6 +135,7 @@ int main(void)
 		printf("\n");
 	}
 	
+	free(mybook);
 	printf("[ Exit ]\n");
 	
 	return 0;

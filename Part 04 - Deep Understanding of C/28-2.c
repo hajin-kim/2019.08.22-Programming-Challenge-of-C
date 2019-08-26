@@ -36,6 +36,8 @@ int main(void)
 		printf("%d\n", mybook[i].pages);
 	}
 	
+	free(mybook);
+	
 	return 0;
 }
 
